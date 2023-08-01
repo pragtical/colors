@@ -57,6 +57,7 @@ Theme | Preview
 [`tokyo-night`](colors/tokyo-night.lua?raw=1) | ![tokyo-night_preview](previews/tokyo-night.svg)
 [`vscode-dark`](colors/vscode-dark.lua?raw=1) | ![vscode-dark_preview](previews/vscode-dark.svg)
 [`winter`](colors/winter.lua?raw=1) | ![winter_preview](previews/winter.svg)
+[`yaru_dark`](colors/yaru_dark.lua?raw=1) | ![yaru_dark_preview](previews/yaru_dark.svg)
 [`zenburn`](colors/zenburn.lua?raw=1) | ![zenburn_preview](previews/zenburn.svg)
 
 ## Light
@@ -69,4 +70,4 @@ Theme | Preview
 [`rose-pine-dawn`](colors/rose-pine-dawn.lua?raw=1)| ![rose_pine_review](previews/rose-pine-dawn.svg)
 [`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](previews/solarized_light.svg)
 [`solarobj`](colors/solarobj.lua?raw=1) | ![solarobj_preview](previews/solarobj.svg)
-
+[`yaru`](colors/yaru.lua?raw=1) | ![yaru_preview](previews/yaru.svg)
