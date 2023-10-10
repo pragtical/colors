@@ -7,9 +7,16 @@ originally forked from the [lite colors repository](https://github.com/rxi/lite-
 
 To install a color scheme, drop the `.lua` file directly into:
 
-*   Linux `~/.config/pragtical/colors/`
-*   MacOS `~/.config/pragtical/colors/`
-*   Windows `C:\Users\(username)\.config\pragtical\colors\`
+* Linux `~/.config/pragtical/colors/`
+* MacOS `~/.config/pragtical/colors/`
+* Windows `C:\Users\(username)\.config\pragtical\colors\`
+
+You can also use [`ppm`](https://github.com/pragtical/plugin-manager) to
+install any of the below themes.
+
+```
+ppm install everforest
+```
 
 Then, add a call to `core.reload_module` to your user module (the gear in the
 bottom left corner). As an example, if you installed the `github_dark.lua`
@@ -18,6 +25,12 @@ file into your colors folder, you'd load it with:
 ```lua
 core.reload_module("colors.github_dark")
 ```
+
+### Base16 Themes
+
+`@SmileYzn` has created a theme manager for base16 themes as a plugin.
+Please see [here](https://github.com/SmileYzn/base16), if you'd like to
+install a base16 theme.
 
 *Note: if you make a pull request, please update the manifest.json.
 The below table will be automatically updated as part of CI; please
