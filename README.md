@@ -57,6 +57,7 @@ do not bother modifying it.*
 | [`duorand`](colors/duorand.lua?raw=1)                               | ![duorand_preview](previews/duorand.svg)                         |
 | [`duotone`](colors/duotone.lua?raw=1)                               | ![duotone_preview](previews/duotone.svg)                         |
 | [`everforest`](colors/everforest.lua?raw=1)                         | ![everforest_preview](previews/everforest.svg)                   |
+| [`flexoki_dark`](colors/flexoki_dark.lua?raw=1)                     | ![flexoki_dark_preview](previews/flexoki_dark.svg)               |
 | [`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1)         | ![github-dark-dimmed_preview](previews/github-dark-dimmed.svg)   |
 | [`github_dark`](colors/github_dark.lua?raw=1)                       | ![github_dark_preview](previews/github_dark.svg)                 |
 | [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1)                     | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)               |
@@ -67,6 +68,7 @@ do not bother modifying it.*
 | [`monodark`](colors/monodark.lua?raw=1)                             | ![monodark_preview](previews/monodark.svg)                       |
 | [`monokai`](colors/monokai.lua?raw=1)                               | ![monokai_preview](previews/monokai.svg)                         |
 | [`monokai-pro-classic`](colors/monokai-pro-classic.lua?raw=1)       | ![monokai-pro-classic_preview](previews/monokai-pro-classic.svg) |
+| [`monokai-sublime`](colors/monokai-sublime.lua?raw=1)               | ![monokai-sublime_preview](previews/monokai-sublime.svg)         |
 | [`nord`](colors/nord.lua?raw=1)                                     | ![nord_preview](previews/nord.svg)                               |
 | [`onedark`](colors/onedark.lua?raw=1)                               | ![onedark_preview](previews/onedark.svg)                         |
 | [`only_dark`](colors/only_dark.lua?raw=1)                           | ![only_dark_preview](previews/only_dark.svg)                     |
@@ -77,6 +79,7 @@ do not bother modifying it.*
 | [`tokyo-night`](colors/tokyo-night.lua?raw=1)                       | ![tokyo-night_preview](previews/tokyo-night.svg)                 |
 | [`vscode-dark`](colors/vscode-dark.lua?raw=1)                       | ![vscode-dark_preview](previews/vscode-dark.svg)                 |
 | [`winter`](colors/winter.lua?raw=1)                                 | ![winter_preview](previews/winter.svg)                           |
+| [`yaru_dark`](colors/yaru_dark.lua?raw=1)                           | ![yaru_dark_preview](previews/yaru_dark.svg)                     |
 | [`zenburn`](colors/zenburn.lua?raw=1)                               | ![zenburn_preview](previews/zenburn.svg)                         |
 
 ## Light
@@ -84,9 +87,11 @@ do not bother modifying it.*
 | Theme                                                              | Preview                                                  |
 | ------------------------------------------------------------------ | -------------------------------------------------------- |
 | [`ayu-light`](https://github.com/juliardi/lite-xl-ayu-theme.git)\* | ![ayu-light_preview](previews/ayu-light.svg)             |
+| [`flexoki_light`](colors/flexoki_light.lua?raw=1)                  | ![flexoki_light_preview](previews/flexoki_light.svg)     |
 | [`github`](colors/github.lua?raw=1)                                | ![github_preview](previews/github.svg)                   |
 | [`gruvbox_light`](colors/gruvbox_light.lua?raw=1)                  | ![gruvbox_light_preview](previews/gruvbox_light.svg)     |
 | [`moe`](colors/moe.lua?raw=1)                                      | ![moe_preview](previews/moe.svg)                         |
 | [`rose-pine-dawn`](colors/rose-pine-dawn.lua?raw=1)                | ![rose-pine-dawn_preview](previews/rose-pine-dawn.svg)   |
 | [`solarized_light`](colors/solarized_light.lua?raw=1)              | ![solarized_light_preview](previews/solarized_light.svg) |
 | [`solarobj`](colors/solarobj.lua?raw=1)                            | ![solarobj_preview](previews/solarobj.svg)               |
+| [`yaru`](colors/yaru.lua?raw=1)                                    | ![yaru_preview](previews/yaru.svg)                       |
