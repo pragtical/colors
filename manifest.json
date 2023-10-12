@@ -432,6 +432,28 @@
          "version" : "0.1"
       },
       {
+         "id" : "yaru",
+         "mod_version" : "3.0.0",
+         "name" : "yaru",
+         "path" : "colors/yaru.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "yaru_dark",
+         "mod_version" : "3.0.0",
+         "name" : "yaru_dark",
+         "path" : "colors/yaru_dark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "zenburn",
          "mod_version" : "3.0.0",
          "name" : "zenburn",
