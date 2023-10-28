@@ -13,17 +13,17 @@ jobs:
       - uses: actions/checkout@v3
       - name: Generate table with `ppm`
         run: |
-          wget https://github.com/pragtical/plugin-manager/releases/download/latest/ppm.x86_64-linux -O ppm && chmod +x ppm
+          wget https://github.com/pragtical/plugin-manager/releases/download/latest/ppm.x86_64-linux -O ppm-latest && chmod +x ppm-latest
           # Unstub all stubs so we can make proper previews.
-          ./ppm --userdir . init . && ./ppm --userdir . color install "*" && ./ppm purge --userdir .
-          ./ppm exec scripts/make_preview_image.lua colors/*
+          ./ppm-latest --userdir . init . && ./ppm-latest --userdir . color install "*" && ./ppm-latest purge --userdir .
+          ./ppm-latest exec scripts/make_preview_image.lua colors/*
           # Remove everything after the --- so we can regenerate it.
           perl -pi -e 'exit(0) if $_ =~ m/^\-\-\-/' README.md
           echo "---" >> README.md
           echo -e "\n## Dark\n" >> README.md
-          ./ppm list --repository . --type color --tag "dark" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
+          ./ppm-latest list --repository . --type color --tag "dark" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
           echo -e "\n## Light\n" >> README.md
-          ./ppm list --repository . --type color --tag "light" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
+          ./ppm-latest list --repository . --type color --tag "light" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
           if ! git diff --exit-code -s README.md; then
             git config --global user.name "Github Actions" && git config --global user.email "<>"
             git add README.md previews
