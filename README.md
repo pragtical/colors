@@ -26,6 +26,12 @@ file into your colors folder, you'd load it with:
 core.reload_module("colors.github_dark")
 ```
 
+You can also preview what a color theme looks like with:
+
+```
+ppm run everforest --config 'core.reload_module("colors.everforest")'
+```
+
 ### Base16 Themes
 
 `@SmileYzn` has created a theme manager for base16 themes as a plugin.
