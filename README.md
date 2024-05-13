@@ -66,6 +66,7 @@ do not bother modifying it.*
 | [dracula](colors/dracula.lua?raw=1)                                     | ![dracula_preview](previews/dracula.svg)                                     |
 | [duorand](colors/duorand.lua?raw=1)                                     | ![duorand_preview](previews/duorand.svg)                                     |
 | [duotone](colors/duotone.lua?raw=1)                                     | ![duotone_preview](previews/duotone.svg)                                     |
+| [everblush](colors/everblush.lua?raw=1)                                 | ![everblush_preview](previews/everblush.svg)                                 |
 | [everforest](colors/everforest.lua?raw=1)                               | ![everforest_preview](previews/everforest.svg)                               |
 | [flexoki_dark](colors/flexoki_dark.lua?raw=1)                           | ![flexoki_dark_preview](previews/flexoki_dark.svg)                           |
 | [focus](colors/focus.lua?raw=1)                                         | ![focus_preview](previews/focus.svg)                                         |
