@@ -159,6 +159,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "everblush",
+         "mod_version" : "3.0.0",
+         "name" : "everblush",
+         "path" : "colors/everblush.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "everforest",
          "mod_version" : "3.0.0",
          "name" : "everforest",
@@ -188,7 +199,7 @@
          "tags" : [
             "light"
          ],
-	 "type" : "color",
+         "type" : "color",
          "version" : "0.1"
       },
       {
