@@ -413,6 +413,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "nebula",
+         "mod_version" : "3.0.0",
+         "name" : "nebula",
+         "path" : "colors/nebula.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "nord",
          "mod_version" : "3.0.0",
          "name" : "nord",
