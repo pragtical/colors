@@ -259,6 +259,72 @@
          "version" : "0.1"
       },
       {
+         "id" : "gruvbox-material-dark-hard",
+         "mod_version" : "3.0.0",
+         "name" : "gruvbox-material-dark-hard",
+         "path" : "colors/gruvbox-material-dark-hard.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "gruvbox-material-dark-medium",
+         "mod_version" : "3.0.0",
+         "name" : "gruvbox-material-dark-medium",
+         "path" : "colors/gruvbox-material-dark-medium.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "gruvbox-material-dark-soft",
+         "mod_version" : "3.0.0",
+         "name" : "gruvbox-material-dark-soft",
+         "path" : "colors/gruvbox-material-dark-soft.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "gruvbox-material-light-hard",
+         "mod_version" : "3.0.0",
+         "name" : "gruvbox-material-light-hard",
+         "path" : "colors/gruvbox-material-light-hard.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "gruvbox-material-light-medium",
+         "mod_version" : "3.0.0",
+         "name" : "gruvbox-material-light-medium",
+         "path" : "colors/gruvbox-material-light-medium.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "gruvbox-material-light-soft",
+         "mod_version" : "3.0.0",
+         "name" : "gruvbox-material-light-soft",
+         "path" : "colors/gruvbox-material-light-soft.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "gruvbox_dark",
          "mod_version" : "3.0.0",
          "name" : "gruvbox_dark",
