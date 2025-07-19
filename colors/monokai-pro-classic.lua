@@ -16,6 +16,9 @@ style.line_highlight = { common.color "#36372f" }
 style.scrollbar = { common.color "#49483E" }
 style.scrollbar2 = { common.color "#636254" }
 
+style.search_selection = { common.color "#6c6e5e" }
+style.search_selection_text = { common.color "#ffccff" }
+
 style.syntax["normal"] = { common.color "#F8F8F2" }
 style.syntax["symbol"] = { common.color "#F8F8F2" }
 style.syntax["comment"] = { common.color "#75715E" }

@@ -27,6 +27,9 @@ style.warn               = { common.color "#f5ad44" }
 style.error              = { common.color "#db504a" }
 style.modified           = { common.color "#448bf5" }
 
+style.search_selection = { common.color "#5f5f6d" }
+style.search_selection_text = { common.color "#c8c8c8" }
+
 -- Syntax --
 style.syntax             = {}
 style.syntax["normal"]   = { common.color "#dfe2e7" }

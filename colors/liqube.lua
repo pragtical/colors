@@ -19,6 +19,9 @@ style.scrollbar = { common.color "#3d3f43" }
 style.scrollbar2 = { common.color "#595b5f" }
 style.guide = { common.color "#1c1f25" } -- indentguide
 
+style.search_selection = { common.color "#4d4d4d" }
+style.search_selection_text = { common.color "#e6e600" }
+
 style.syntax["normal"] = { common.color "#abb2bf" }
 style.syntax["symbol"] = { common.color "#71a9d7" }
 style.syntax["comment"] = { common.color "#5c6370" }

@@ -4,7 +4,7 @@ local common = require("core.common")
 local rose_pine_moon = {}
 
 rose_pine_moon.base = "#232136"
-rose_pine_moon.surface = "#2a273f"
+rose_pine_moon.surface = "#3f3c5d"
 rose_pine_moon.overlay = "#393552"
 rose_pine_moon.muted = "#6e6a86"
 rose_pine_moon.subtle = "#908caa"
@@ -45,6 +45,9 @@ style.good = { common.color(rose_pine_moon.iris) }
 style.warn = { common.color(rose_pine_moon.gold) }
 style.error = { common.color(rose_pine_moon.love) }
 style.modified = { common.color(rose_pine_moon.foam) }
+
+style.search_selection = { common.color "#d39d5f" }
+style.search_selection_text = { common.color "#333333" }
 
 style.syntax["normal"] = { common.color(rose_pine_moon.text) }
 style.syntax["symbol"] = { common.color(rose_pine_moon.text) }

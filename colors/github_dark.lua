@@ -26,6 +26,9 @@ style.line_highlight = {common.color "#1e202e"}
 style.scrollbar = fgdim
 style.scrollbar2 = fg
 
+style.search_selection = { common.color "#b3b3b3" }
+style.search_selection_text = { common.color "#384047" }
+
 style.syntax["normal"] = fg
 style.syntax["symbol"] = fg
 style.syntax["comment"] = fgdim

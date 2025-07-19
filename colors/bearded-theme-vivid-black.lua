@@ -39,6 +39,9 @@ style.syntax["string"] = { common.color "#42DD76" } -- strings
 style.syntax["operator"] = { common.color "#c8c8c8" } -- operators
 style.syntax["function"] = { common.color "#FFB638" }  -- functions
 
+style.search_selection = { common.color "#5f5f6d" }
+style.search_selection_text = { common.color "#c8c8c8" }
+
 style.caret = { common.color "#FFB638" } -- caret
 
 style.line_highlight = { common.color "#aaaaaa0d" } -- editor line highlighting

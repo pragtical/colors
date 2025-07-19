@@ -46,6 +46,9 @@ style.warn = { common.color(rose_pine.gold) }
 style.error = { common.color(rose_pine.love) }
 style.modified = { common.color(rose_pine.foam) }
 
+style.search_selection = { common.color "#666666" }
+style.search_selection_text = { common.color "#ffff00" }
+
 style.syntax["normal"] = { common.color(rose_pine.text) }
 style.syntax["symbol"] = { common.color(rose_pine.text) }
 style.syntax["comment"] = { common.color(rose_pine.muted) }

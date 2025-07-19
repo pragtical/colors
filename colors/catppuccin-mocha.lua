@@ -16,6 +16,9 @@ style.scrollbar = { common.color "#585b70" } -- surface2
 style.scrollbar2 = { common.color "#6c7086" } -- overlay0
 style.scrollbar_track = { common.color "#181825" } -- mantle
 
+style.search_selection = { common.color "#3c3c5d" }
+style.search_selection_text = { common.color "#ffad33" }
+
 style.syntax["normal"] = { common.color "#f38ba8" } -- red
 style.syntax["symbol"] = { common.color "#b4befe" } -- lavender
 style.syntax["comment"] = { common.color "#6c7086" } -- overlay0
