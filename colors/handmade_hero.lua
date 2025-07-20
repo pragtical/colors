@@ -26,6 +26,6 @@ style.syntax["keyword"] = { common.color "#d99f0d" }
 style.syntax["keyword2"] = { common.color "#d99f0d" }
 style.syntax["number"] = { common.color "#d699b5" }
 style.syntax["literal"] = { common.color "#e67d74" }
-style.syntax["string"] = { common.color "#cdaa7d" }
+style.syntax["string"] = { common.color "#7aa329" }
 style.syntax["operator"] = { common.color "#cdaa7d" }
 style.syntax["function"] = { common.color "#c69f6c" }
