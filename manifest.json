@@ -358,6 +358,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "handmade_hero",
+         "mod_version" : "3.0.0",
+         "name" : "handmade_hero",
+         "path" : "colors/handmade_hero.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "jb-fleet",
          "mod_version" : "3.0.0",
          "name" : "jb-fleet",
