@@ -77,6 +77,7 @@ do not bother modifying it.*
 | [gruvbox-material-dark-soft](colors/gruvbox-material-dark-soft.lua?raw=1)     | ![gruvbox-material-dark-soft_preview](previews/gruvbox-material-dark-soft.svg)     |
 | [gruvbox_dark](colors/gruvbox_dark.lua?raw=1)                                 | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)                                 |
 | [hackersden](colors/hackersden.lua?raw=1)                                     | ![hackersden_preview](previews/hackersden.svg)                                     |
+| [handmade_hero](colors/handmade_hero.lua?raw=1)                               | ![handmade_hero_preview](previews/handmade_hero.svg)                               |
 | [jb-fleet](colors/jb-fleet.lua?raw=1)                                         | ![jb-fleet_preview](previews/jb-fleet.svg)                                         |
 | [jellybeans](colors/jellybeans.lua?raw=1)                                     | ![jellybeans_preview](previews/jellybeans.svg)                                     |
 | [justperfect](https://github.com/RohanVashisht1234/justperfect)               | ![justperfect_preview](previews/justperfect.svg)                                   |
