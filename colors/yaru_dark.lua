@@ -116,6 +116,9 @@ style.warn = colors.yellow_4
 style.error = colors.red_4
 style.modified = colors.blue_3
 
+style.search_selection = { common.color "#676b98" }
+style.search_selection_text = { common.color "#f0f0f5" }
+
 style.syntax["normal"] = colors.light_5
 style.syntax["symbol"] = colors.light_6
 style.syntax["comment"] = colors.dark_1

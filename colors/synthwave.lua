@@ -22,6 +22,9 @@ style.nagbar_dim         = { common.color "rgba(0, 0, 0, 0.30)" }
 style.drag_overlay       = { common.color "rgba(0, 0, 0, 0.30)" }
 style.drag_overlay_tab   = { common.color "#f17e6e" }
 
+style.search_selection = { common.color "#007acc" }
+style.search_selection_text = { common.color "#ccebff" }
+
 style.syntax["normal"]   = { common.color "#FFFFFF" }
 style.syntax["symbol"]   = { common.color "#ff79c6" }
 style.syntax["comment"]  = { common.color "#9484bd" }

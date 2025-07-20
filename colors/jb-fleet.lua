@@ -19,6 +19,9 @@ style.line_highlight = { common.color "#292929" }
 style.scrollbar = { common.color "#3a3a3a" }
 style.scrollbar2 = { common.color "#313131" }
 
+style.search_selection = { common.color "#4d4d4d" }
+style.search_selection_text = { common.color "#42f076" }
+
 style.syntax["normal"] = { common.color "#e6e6e6" }
 style.syntax["symbol"] = { common.color "#e6e6e6" }
 style.syntax["comment"] = { common.color "#6d6d6d" }
@@ -39,10 +42,10 @@ local darkergray = { common.color "#bbbbbb" }
 local whoablue = { common.color "#87c3ff" }
 local syncols = {
   ["keyword.return"] = style.syntax["keyword"],
-  
+
   ["type"] = style.syntax["keyword2"],
   ["type.builtin"] = style.syntax["keyword"],
-  
+
   ["boolean"] = whoablue,
   ["parameter"] = darkergray,
   ["field"] = whoablue,

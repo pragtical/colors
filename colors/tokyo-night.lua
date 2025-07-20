@@ -28,6 +28,9 @@ style.warn = { common.color "#e0af68" }
 style.error = { common.color "#f7768e" }
 style.modified = { common.color "#7aa2f7" }
 
+style.search_selection = { common.color "#676b98" }
+style.search_selection_text = { common.color "#f0f0f5" }
+
 style.syntax["normal"] = { common.color "#9ABDF5" }
 style.syntax["symbol"] = { common.color "#c0caf5" }
 style.syntax["comment"] = { common.color "#414868" }

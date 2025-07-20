@@ -19,7 +19,10 @@ style.line_highlight = { common.color "#B7B5AC" }  -- tx-3
 style.scrollbar = { common.color "#E6E4D9" }  -- ui
 style.scrollbar2 = { common.color "#B7B5AC" }  -- tx-3
 
-style.syntax["normal"] = { common.color "#E6E4D9" }  -- ui
+style.search_selection = { common.color "#52527a" }
+style.search_selection_text = { common.color "#ffc21a" }
+
+style.syntax["normal"] = { common.color "#7c7650" }  -- ui
 style.syntax["symbol"] = { common.color "#8B7EC8" }  -- purple
 style.syntax["comment"] = { common.color "#6F6E69" }  -- tx-2
 style.syntax["keyword"] = { common.color "#D14D41" }  -- red

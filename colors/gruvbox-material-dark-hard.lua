@@ -46,6 +46,9 @@ style.warn             = base09
 style.error            = base08
 style.modified         = base12
 
+style.search_selection = { common.color "#666666" }
+style.search_selection_text = { common.color "#ffa64d" }
+
 style.syntax["normal"]   = base05
 style.syntax["symbol"]   = base05
 style.syntax["comment"]  = base04

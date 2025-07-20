@@ -20,13 +20,16 @@ style.scrollbar2 = { common.color "#33CCCC4C" }
 style.scrollbar_track = { common.color "#10191F4C" }
 style.guide = { common.color "#1F2F3A" } -- indentguide
 
-style.syntax["normal"] = { common.color "#82AAA3" }
+style.search_selection = { common.color "#6a5acd" }
+style.search_selection_text = { common.color "#ffffff" }
+
+style.syntax["normal"] = { common.color "#BFC9DB" }
 style.syntax["symbol"] = { common.color "#BFC9DB" }
 style.syntax["comment"] = { common.color "#87919D" }
 style.syntax["keyword"] = { common.color "#E67D74" }
-style.syntax["keyword2"] = { common.color "#ffffff" }
+style.syntax["keyword2"] = { common.color "#82AAA3" }
 style.syntax["number"] = { common.color "#D699B5" }
-style.syntax["literal"] = { common.color "#ea5964" } 
+style.syntax["literal"] = { common.color "#82AAA3" }
 style.syntax["string"] = { common.color "#D4BC7D" }
 style.syntax["operator"] = { common.color "#E0AD82" }
 style.syntax["function"] = { common.color "#D0C5A9" }

@@ -32,6 +32,9 @@ style.syntax["string"] = { common.color "#A3BE8C" }
 style.syntax["operator"] = { common.color "#81A1C1" }
 style.syntax["function"] = { common.color "#88C0D0" }
 
+style.search_selection = { common.color "#566176" }
+style.search_selection_text = { common.color "#80e5ff" }
+
 config.highlight_current_line = "no_selection"
 
 style.guide = { common.color "#434c5eb3" }

@@ -17,6 +17,9 @@ style.scrollbar = { common.color "#4F5B58"}
 style.scrollbar2 = { common.color "#4F5B58"}
 style.scrollbar_track = { common.color "#272E33"}
 
+style.search_selection = { common.color "#004d00" }
+style.search_selection_text = { common.color "#b9cd98" }
+
 style.syntax["normal"] = { common.color "#D3C6AA"}
 style.syntax["symbol"] = { common.color "#D3C6AA"}
 style.syntax["comment"] = {common.color "#4F5B58"}
