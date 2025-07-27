@@ -39,8 +39,8 @@ style.syntax["string"] = { common.color "#42DD76" } -- strings
 style.syntax["operator"] = { common.color "#c8c8c8" } -- operators
 style.syntax["function"] = { common.color "#FFB638" }  -- functions
 
-style.search_selection = { common.color "#5f5f6d" }
-style.search_selection_text = { common.color "#c8c8c8" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.caret = { common.color "#FFB638" } -- caret
 
@@ -69,4 +69,4 @@ style.accent = style.caret -- accent color
 style.divider = { common.color "#060607" } -- borders
 
 style.line_number = { common.color "#55555590" } -- inactive
-style.line_number2 = { common.color "#555555" } -- active
+style.line_number2 = { common.color "#8c8c8c" } -- active

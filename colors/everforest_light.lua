@@ -5,9 +5,9 @@ style.background = { common.color "#FFFBEF"}
 style.background2 = { common.color "#FFFBEF"}
 style.background3 = { common.color "#FFFBEF"}
 style.text = { common.color "#5C6A72"}
-style.caret = { common.color "#93B259"}
-style.accent = { common.color "#93B259"}
-style.dim = { common.color "#939F91"}
+style.caret = { common.color "#556930"}
+style.accent = { common.color "#718c40"}
+style.dim = { common.color "#a1aca0"}
 style.divider = { common.color "#E8E5D5"}
 style.selection = { common.color "#E8E5D5"}
 style.line_number = {common.color "#BEC5B2"}
@@ -18,8 +18,8 @@ style.scrollbar2 = { common.color "#BEC5B2"}
 style.scrollbar_track = { common.color "#EDEADA"}
 style.drag_overlay = { common.color "#BEC5B233"}
 
-style.search_selection = { common.color "#ffe699" }
-style.search_selection_text = { common.color "#394247" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#5C6A72"}
 style.syntax["symbol"] = { common.color "#5C6A72"}

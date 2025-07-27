@@ -7,21 +7,21 @@ local common = require "core.common"
 
 style.background = { common.color "#141b1e" }
 style.background2 = { common.color "#1e2528" }
-style.background3 = { common.color "#2d3437" }
-style.text = { common.color "#dadada" }
+style.background3 = { common.color "#1e2528" }
+style.text = { common.color "#e6e6e6" }
 style.caret = { common.color "#dadada" }
 style.accent = { common.color "#67b0e8" }
-style.dim = { common.color "#bdc3c2" }
+style.dim = { common.color "#6d7876" }
 style.divider = { common.color "#232a2d" }
 style.selection = { common.color "#232a2d" }
-style.line_number = { common.color "#bdc3c2" }
+style.line_number = { common.color "#495050" }
 style.line_number2 = { common.color "#a9afae" }
 style.line_highlight = { common.color "#2d3437" }
 style.scrollbar = { common.color "#bab3e5" }
 style.scrollbar2 = { common.color "#c4bdef" }
 
-style.search_selection = { common.color "#33454d" }
-style.search_selection_text = { common.color "#7abaeb" }
+style.search_selection = { common.color "#8800cc" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#b3b9b8" }
 style.syntax["symbol"] = { common.color "#b3b9b8" }
