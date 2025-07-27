@@ -116,6 +116,17 @@
          "version" : "0.2"
       },
       {
+         "id" : "carbonfox",
+         "mod_version" : "3.0.0",
+         "name" : "carbonfox",
+         "path" : "colors/carbonfox.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "cold_lime",
          "mod_version" : "3.0.0",
          "name" : "cold_lime",
@@ -125,6 +136,17 @@
          ],
          "type" : "color",
          "version" : "0.2"
+      },
+      {
+         "id" : "dawnfox",
+         "mod_version" : "3.0.0",
+         "name" : "dawnfox",
+         "path" : "colors/dawnfox.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
       },
       {
          "id" : "dracula",
@@ -160,6 +182,17 @@
          "version" : "0.2"
       },
       {
+         "id" : "duskfox",
+         "mod_version" : "3.0.0",
+         "name" : "duskfox",
+         "path" : "colors/duskfox.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "everblush",
          "mod_version" : "3.0.0",
          "name" : "everblush",
@@ -180,6 +213,17 @@
          ],
          "type" : "color",
          "version" : "0.3"
+      },
+      {
+         "id" : "dayfox",
+         "mod_version" : "3.0.0",
+         "name" : "dayfox",
+         "path" : "colors/dayfox.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
       },
       {
          "id" : "everforest_light",
@@ -501,6 +545,17 @@
          "version" : "0.2"
       },
       {
+         "id" : "nightfox",
+         "mod_version" : "3.0.0",
+         "name" : "nightfox",
+         "path" : "colors/nightfox.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "nord",
          "mod_version" : "3.0.0",
          "name" : "nord",
@@ -510,6 +565,17 @@
          ],
          "type" : "color",
          "version" : "0.2"
+      },
+      {
+         "id" : "nordfox",
+         "mod_version" : "3.0.0",
+         "name" : "nordfox",
+         "path" : "colors/nordfox.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
       },
       {
          "id" : "onedark",
@@ -653,6 +719,17 @@
          ],
          "type" : "color",
          "version" : "0.2"
+      },
+      {
+         "id" : "terafox",
+         "mod_version" : "3.0.0",
+         "name" : "terafox",
+         "path" : "colors/terafox.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
       },
       {
          "id" : "tokyo-night",
