@@ -7,7 +7,7 @@ local base02                          = { common.color "#254147" } -- 2
 local base03                          = { common.color "#4e5157" } -- commments
 local base04                          = { common.color "#587b7b" } -- 4
 local base05                          = { common.color "#e6eaea" } -- foreground
-local base06                          = { common.color "#cbd9d8" } -- 6
+local base06                          = { common.color "#567674" } -- 6
 local base07                          = { common.color "#eeeeee" } -- 7
 local base08                          = { common.color "#e85c51" } -- red
 local base09                          = { common.color "#ff8349" } -- orange
@@ -32,7 +32,7 @@ style.divider          = base02 -- Line between nodes
 style.selection        = base02
 style.line_number      = base06
 style.line_number2     = base05 -- With cursor
-style.line_highlight   = base01
+style.line_highlight   = base02
 style.scrollbar        = base03
 style.scrollbar2       = base04 -- Hovered
 style.scrollbar_track  = base02
@@ -45,6 +45,9 @@ style.good             = base11
 style.warn             = base09
 style.error            = base08
 style.modified         = base12
+
+style.search_selection = { common.color "#6a5acd" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"]   = base05
 style.syntax["symbol"]   = base09
