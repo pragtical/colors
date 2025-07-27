@@ -9,7 +9,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id": "ayu-dark",
@@ -47,7 +47,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "betelgeuse",
@@ -58,7 +58,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "c0mfy",
@@ -69,7 +69,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "catppuccin-frappe",
@@ -135,7 +135,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "dawnfox",
@@ -179,7 +179,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "duskfox",
@@ -201,7 +201,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "everforest",
@@ -212,7 +212,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.3"
+         "version" : "0.4"
       },
       {
          "id" : "dayfox",
@@ -234,7 +234,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "flexoki_dark",
@@ -245,7 +245,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "flexoki_light",
@@ -256,7 +256,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "focus",
