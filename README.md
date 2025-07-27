@@ -59,6 +59,7 @@ do not bother modifying it.*
 | [bearded-theme-vivid-black](colors/bearded-theme-vivid-black.lua?raw=1)       | ![bearded-theme-vivid-black_preview](previews/bearded-theme-vivid-black.svg)       |
 | [betelgeuse](colors/betelgeuse.lua?raw=1)                                     | ![betelgeuse_preview](previews/betelgeuse.svg)                                     |
 | [c0mfy](colors/c0mfy.lua?raw=1)                                               | ![c0mfy_preview](previews/c0mfy.svg)                                               |
+| [carbonfox](colors/carbonfox.lua?raw=1)                                       | ![carbonfox_preview](previews/carbonfox.svg)                                       |
 | [catppuccin-frappe](colors/catppuccin-frappe.lua?raw=1)                       | ![catppuccin-frappe_preview](previews/catppuccin-frappe.svg)                       |
 | [catppuccin-macchiato](colors/catppuccin-macchiato.lua?raw=1)                 | ![catppuccin-macchiato_preview](previews/catppuccin-macchiato.svg)                 |
 | [catppuccin-mocha](colors/catppuccin-mocha.lua?raw=1)                         | ![catppuccin-mocha_preview](previews/catppuccin-mocha.svg)                         |
@@ -66,6 +67,7 @@ do not bother modifying it.*
 | [dracula](colors/dracula.lua?raw=1)                                           | ![dracula_preview](previews/dracula.svg)                                           |
 | [duorand](colors/duorand.lua?raw=1)                                           | ![duorand_preview](previews/duorand.svg)                                           |
 | [duotone](colors/duotone.lua?raw=1)                                           | ![duotone_preview](previews/duotone.svg)                                           |
+| [duskfox](colors/duskfox.lua?raw=1)                                           | ![duskfox_preview](previews/duskfox.svg)                                           |
 | [everblush](colors/everblush.lua?raw=1)                                       | ![everblush_preview](previews/everblush.svg)                                       |
 | [everforest](colors/everforest.lua?raw=1)                                     | ![everforest_preview](previews/everforest.svg)                                     |
 | [flexoki_dark](colors/flexoki_dark.lua?raw=1)                                 | ![flexoki_dark_preview](previews/flexoki_dark.svg)                                 |
@@ -89,7 +91,9 @@ do not bother modifying it.*
 | [monokai-pro-classic](colors/monokai-pro-classic.lua?raw=1)                   | ![monokai-pro-classic_preview](previews/monokai-pro-classic.svg)                   |
 | [monokai-sublime](colors/monokai-sublime.lua?raw=1)                           | ![monokai-sublime_preview](previews/monokai-sublime.svg)                           |
 | [nebula](colors/nebula.lua?raw=1)                                             | ![nebula_preview](previews/nebula.svg)                                             |
+| [nightfox](colors/nightfox.lua?raw=1)                                         | ![nightfox_preview](previews/nightfox.svg)                                         |
 | [nord](colors/nord.lua?raw=1)                                                 | ![nord_preview](previews/nord.svg)                                                 |
+| [nordfox](colors/nordfox.lua?raw=1)                                           | ![nordfox_preview](previews/nordfox.svg)                                           |
 | [onedark](colors/onedark.lua?raw=1)                                           | ![onedark_preview](previews/onedark.svg)                                           |
 | [only_dark](colors/only_dark.lua?raw=1)                                       | ![only_dark_preview](previews/only_dark.svg)                                       |
 | [oxocarbon-dark](colors/oxocarbon-dark.lua?raw=1)                             | ![oxocarbon-dark_preview](previews/oxocarbon-dark.svg)                             |
@@ -99,6 +103,7 @@ do not bother modifying it.*
 | [rose-pine-moon](colors/rose-pine-moon.lua?raw=1)                             | ![rose-pine-moon_preview](previews/rose-pine-moon.svg)                             |
 | [solarized_dark](colors/solarized_dark.lua?raw=1)                             | ![solarized_dark_preview](previews/solarized_dark.svg)                             |
 | [synthwave](colors/synthwave.lua?raw=1)                                       | ![synthwave_preview](previews/synthwave.svg)                                       |
+| [terafox](colors/terafox.lua?raw=1)                                           | ![terafox_preview](previews/terafox.svg)                                           |
 | [tokyo-night](colors/tokyo-night.lua?raw=1)                                   | ![tokyo-night_preview](previews/tokyo-night.svg)                                   |
 | [vscode-dark](colors/vscode-dark.lua?raw=1)                                   | ![vscode-dark_preview](previews/vscode-dark.svg)                                   |
 | [winter](colors/winter.lua?raw=1)                                             | ![winter_preview](previews/winter.svg)                                             |
@@ -111,6 +116,8 @@ do not bother modifying it.*
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [ayu-light](https://github.com/juliardi/lite-xl-ayu-theme.git)                  | ![ayu-light_preview](previews/ayu-light.svg)                                         |
 | [catppuccin-latte](colors/catppuccin-latte.lua?raw=1)                           | ![catppuccin-latte_preview](previews/catppuccin-latte.svg)                           |
+| [dawnfox](colors/dawnfox.lua?raw=1)                                             | ![dawnfox_preview](previews/dawnfox.svg)                                             |
+| [dayfox](colors/dayfox.lua?raw=1)                                               | ![dayfox_preview](previews/dayfox.svg)                                               |
 | [everforest_light](colors/everforest_light.lua?raw=1)                           | ![everforest_light_preview](previews/everforest_light.svg)                           |
 | [flexoki_light](colors/flexoki_light.lua?raw=1)                                 | ![flexoki_light_preview](previews/flexoki_light.svg)                                 |
 | [github](colors/github.lua?raw=1)                                               | ![github_preview](previews/github.svg)                                               |
