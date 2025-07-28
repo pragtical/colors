@@ -7,18 +7,18 @@ style.background3 = { common.color "#1E2326"}
 style.text = { common.color "#D3C6AA"}
 style.caret = { common.color "#A7C080"}
 style.accent = { common.color "#A7C080"}
-style.dim = { common.color "#859289"}
+style.dim = { common.color "#78877c"}
 style.divider = { common.color "#272E33"}
 style.selection = { common.color "#2E383C"}
-style.line_number = {common.color "#2E383C"}
-style.line_number2 = {common.color "#374145"}
+style.line_number = {common.color "#384347"}
+style.line_number2 = {common.color "#809399"}
 style.line_highlight = {common.color "#272E33"}
 style.scrollbar = { common.color "#4F5B58"}
 style.scrollbar2 = { common.color "#4F5B58"}
 style.scrollbar_track = { common.color "#272E33"}
 
-style.search_selection = { common.color "#004d00" }
-style.search_selection_text = { common.color "#b9cd98" }
+style.search_selection = { common.color "#0066cc" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#D3C6AA"}
 style.syntax["symbol"] = { common.color "#D3C6AA"}

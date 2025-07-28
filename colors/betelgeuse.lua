@@ -11,7 +11,7 @@ style.accent             = { common.color "#e2e4e9" }
 style.dim                = { common.color "#8893a5" }
 style.divider            = { common.color "#1e232b" }
 style.selection          = { common.color "#2c3440" }
-style.line_number        = { common.color "#8893a5" }
+style.line_number        = { common.color "#4d5666" }
 style.line_number2       = { common.color "#8893a5" }
 style.line_highlight     = { common.color "#242a34" }
 style.scrollbar          = { common.color "#2c3440" }
@@ -27,8 +27,8 @@ style.warn               = { common.color "#f5ad44" }
 style.error              = { common.color "#db504a" }
 style.modified           = { common.color "#448bf5" }
 
-style.search_selection = { common.color "#5f5f6d" }
-style.search_selection_text = { common.color "#c8c8c8" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 -- Syntax --
 style.syntax             = {}
