@@ -6,7 +6,7 @@ local common = require "core.common"
 local bg = { common.color "#0d1117" }
 local bg2 = { common.color "#161925" }
 local fg = { common.color "#adbac7" }
-local fgdim = { common.color "#768390" }
+local fgdim = { common.color "#66727D" }
 local red = { common.color "#f47067" }
 local blue = { common.color "#6cb6ff" }
 local purple = { common.color "#dcbdfb" }
@@ -26,8 +26,8 @@ style.line_highlight = {common.color "#1e202e"}
 style.scrollbar = fgdim
 style.scrollbar2 = fg
 
-style.search_selection = { common.color "#b3b3b3" }
-style.search_selection_text = { common.color "#384047" }
+style.search_selection = { common.color "#3B6DD9" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = fg
 style.syntax["symbol"] = fg

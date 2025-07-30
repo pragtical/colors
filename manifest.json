@@ -80,7 +80,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "catppuccin-latte",
@@ -91,7 +91,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "catppuccin-macchiato",
@@ -102,7 +102,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "catppuccin-mocha",
@@ -113,7 +113,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "carbonfox",
@@ -267,7 +267,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "github",
@@ -278,7 +278,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "github-dark-dimmed",
@@ -289,7 +289,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "github_dark",
@@ -300,7 +300,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "gruvbox-material-dark-hard",
@@ -311,7 +311,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "gruvbox-material-dark-medium",
@@ -322,7 +322,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "gruvbox-material-dark-soft",
@@ -333,7 +333,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "gruvbox-material-light-hard",
@@ -344,7 +344,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "gruvbox-material-light-medium",
@@ -355,7 +355,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "gruvbox-material-light-soft",
@@ -366,7 +366,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "gruvbox_dark",
@@ -377,7 +377,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "gruvbox_light",
@@ -388,7 +388,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "hackersden",
@@ -399,7 +399,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "handmade_hero",
@@ -410,7 +410,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "jb-fleet",
