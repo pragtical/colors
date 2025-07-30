@@ -6,7 +6,7 @@ local base01                          = { common.color "#ebe0df" } -- 1
 local base02                          = { common.color "#e2d0d7" } -- 2
 local base03                          = { common.color "#5f5695" } -- commments
 local base04                          = { common.color "#a8a3b3" } -- 4
-local base05                          = { common.color "#575279" } -- foreground
+local base05                          = { common.color "#464262" } -- foreground
 local base06                          = { common.color "#9995b7" } -- 6
 local base07                          = { common.color "#e6ebf3" } -- 7
 local base08                          = { common.color "#b4637a" } -- red
@@ -47,7 +47,7 @@ style.error            = base08
 style.modified         = base12
 
 style.search_selection = { common.color "#3399ff" }
-style.search_selection_text = { common.color "#e6f2ff" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"]   = base05
 style.syntax["symbol"]   = base09

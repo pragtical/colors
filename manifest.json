@@ -146,7 +146,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.1"
+         "version" : "0.2"
       },
       {
          "id" : "dracula",
@@ -190,7 +190,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.1"
+         "version" : "0.2"
       },
       {
          "id" : "everblush",
@@ -223,7 +223,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.1"
+         "version" : "0.2"
       },
       {
          "id" : "everforest_light",
@@ -553,7 +553,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.1"
+         "version" : "0.2"
       },
       {
          "id" : "nord",
@@ -575,7 +575,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.1"
+         "version" : "0.2"
       },
       {
          "id" : "onedark",
@@ -729,7 +729,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.1"
+         "version" : "0.2"
       },
       {
          "id" : "tokyo-night",
