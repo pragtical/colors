@@ -3,11 +3,11 @@ local common = require "core.common"
 
 style.background = { common.color "#24273a" }
 style.background2 = { common.color "#1e2030" }
-style.background3 = { common.color "#363a4f" }
+style.background3 = { common.color "#212435" }
 style.text = { common.color "#D2DCFF" }
 style.caret = { common.color "#f4dbd6" }
 style.accent = { common.color "#c6a0f6" }
-style.dim = { common.color "#9399B3" }
+style.dim = { common.color "#888EA6" }
 style.divider = { common.color "#c6a0f6" }
 style.selection = { common.color "#5b6078" }
 style.line_number = { common.color "#6e738d" }

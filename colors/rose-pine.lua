@@ -4,7 +4,7 @@ local common = require("core.common")
 local rose_pine = {}
 
 rose_pine.base = "#191724"
-rose_pine.surface = "#1f1d2e"
+rose_pine.surface = "#2F2B45"
 rose_pine.overlay = "#26233a"
 rose_pine.muted = "#6e6a86"
 rose_pine.subtle = "#908caa"

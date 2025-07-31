@@ -157,7 +157,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "duorand",
@@ -168,7 +168,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "duotone",
