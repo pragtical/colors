@@ -3,21 +3,21 @@ local common = require "core.common"
 
 style.background = { common.color "#002b36" }
 style.background2 = { common.color "#073642" }
-style.background3 = { common.color "#073642" }
-style.text = { common.color "#93A1A1" }
-style.caret = { common.color "#586e75" }
+style.background3 = { common.color "#052A33" }
+style.text = { common.color "#BFD1D1" }
+style.caret = { common.color "#88AAB5" }
 style.accent = { common.color "#268bd2" }
 style.dim = { common.color "#586e75" }
 style.divider = { common.color "#23424A" }
 style.selection = { common.color "#073642" }
 style.line_number = { common.color "#586e75" }
-style.line_number2 = { common.color "#93A1A1" }
-style.line_highlight = { common.color "#073642" }
+style.line_number2 = { common.color "#9FAEAE" }
+style.line_highlight = { common.color "#083E4C" }
 style.scrollbar = { common.color "#304A50" }
 style.scrollbar2 = { common.color "#465356" }
 
-style.search_selection = { common.color "#00ccff" }
-style.search_selection_text = { common.color "#333333" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#93A1A1" }
 style.syntax["symbol"] = { common.color "#93A1A1" }

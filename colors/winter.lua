@@ -7,17 +7,17 @@ style.background3 = { common.color "#22242e" }
 style.text = { common.color "#aab3e6" }
 style.caret = { common.color "#f5faff" }
 style.accent = { common.color "#ffb86c" }
-style.dim = { common.color "#4f526b" }
+style.dim = { common.color "#555873" }
 style.divider = { common.color "#22242e" }
 style.selection = { common.color "#4c5163" }
-style.line_number = { common.color "#44475a" }
-style.line_number2 = { common.color "#717796" }
+style.line_number = { common.color "#4A4D62" }
+style.line_number2 = { common.color "#7F85A8" }
 style.line_highlight = { common.color "#2d303d" }
 style.scrollbar = { common.color "#44475a" }
 style.scrollbar2 = { common.color "#4c5163" }
 
-style.search_selection = { common.color "#676b98" }
-style.search_selection_text = { common.color "#f0f0f5" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#f5faff" }
 style.syntax["symbol"] = { common.color "#f5faff" }

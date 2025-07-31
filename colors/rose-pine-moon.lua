@@ -15,9 +15,9 @@ rose_pine_moon.rose = "#ea9a97"
 rose_pine_moon.pine = "#3e8fb0"
 rose_pine_moon.foam = "#9ccfd8"
 rose_pine_moon.iris = "#c4a7e7"
-rose_pine_moon.highlight_low = "#2a283e"
+rose_pine_moon.highlight_low = "#5A5584"
 rose_pine_moon.highlight_med = "#44415a"
-rose_pine_moon.highlight_high = "#56526e"
+rose_pine_moon.highlight_high = "#605C7B"
 
 style.background = { common.color(rose_pine_moon.base) } -- Docview
 style.background2 = { common.color(rose_pine_moon.base) } -- Treeview
@@ -46,8 +46,8 @@ style.warn = { common.color(rose_pine_moon.gold) }
 style.error = { common.color(rose_pine_moon.love) }
 style.modified = { common.color(rose_pine_moon.foam) }
 
-style.search_selection = { common.color "#d39d5f" }
-style.search_selection_text = { common.color "#333333" }
+style.search_selection = { common.color "#6a5acd" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color(rose_pine_moon.text) }
 style.syntax["symbol"] = { common.color(rose_pine_moon.text) }

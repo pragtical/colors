@@ -9,7 +9,7 @@ local colors = {
   blue_4              = { common.color "#007aa6" },
   blue_5              = { common.color "#335280" },
   dark_1              = { common.color "#77767B" },
-  dark_2              = { common.color "#5E5C64" },
+  dark_2              = { common.color "#48464D" },
   dark_3              = { common.color "#504E55" },
   dark_4              = { common.color "#3D3846" },
   dark_5              = { common.color "#241F31" },
@@ -111,8 +111,8 @@ style.warn = colors.yellow_5
 style.error = colors.red_4
 style.modified = colors.blue_4
 
-style.search_selection = { common.color "#676b98" }
-style.search_selection_text = { common.color "#f0f0f5" }
+style.search_selection = { common.color "#3B6DD9" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = colors.dark_2
 style.syntax["symbol"] = colors.dark_3

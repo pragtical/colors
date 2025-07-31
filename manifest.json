@@ -421,7 +421,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "jellybeans",
@@ -432,7 +432,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "justperfect",
@@ -454,7 +454,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "mariana",
@@ -465,7 +465,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "mobilephone",
@@ -476,7 +476,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "moe",
@@ -487,7 +487,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "monodark",
@@ -498,7 +498,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "monokai",
@@ -509,7 +509,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "monokai-sublime",
@@ -520,7 +520,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "monokai-pro-classic",
@@ -531,7 +531,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "nebula",
@@ -542,7 +542,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "nightfox",
@@ -564,7 +564,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "nordfox",
@@ -586,7 +586,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "only_dark",
@@ -597,7 +597,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "oxocarbon-dark",
@@ -608,7 +608,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "oxocarbon-light",
@@ -619,7 +619,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "plasma",
@@ -630,7 +630,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "predawn",
@@ -641,7 +641,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "rose-pine",
@@ -652,7 +652,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "rose-pine-dawn",
@@ -663,7 +663,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "rose-pine-moon",
@@ -674,7 +674,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "solarized_dark",
@@ -685,7 +685,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "solarized_light",
@@ -696,7 +696,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "solarobj",
@@ -707,7 +707,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "synthwave",
@@ -718,7 +718,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "terafox",
@@ -740,7 +740,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "vscode-dark",
@@ -751,7 +751,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "winter",
@@ -762,7 +762,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "yaru",
@@ -773,7 +773,7 @@
             "light"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "yaru_dark",
@@ -784,7 +784,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       },
       {
          "id" : "zenburn",
@@ -795,7 +795,7 @@
             "dark"
          ],
          "type" : "color",
-         "version" : "0.2"
+         "version" : "0.3"
       }
    ]
 }

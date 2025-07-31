@@ -3,8 +3,8 @@ local common = require "core.common"
 
 style.background         = { common.color "#252336" }
 style.background2        = { common.color "#171521" }
-style.background3        = { common.color "#171521" }
-style.text               = { common.color "#8f94bf" }
+style.background3        = { common.color "#2D283F" }
+style.text               = { common.color "#A0A6D6" }
 style.caret              = { common.color "#f17e6e" }
 style.accent             = { common.color "#ff79c6" }
 style.dim                = { common.color "#4f526b" }
@@ -22,10 +22,10 @@ style.nagbar_dim         = { common.color "rgba(0, 0, 0, 0.30)" }
 style.drag_overlay       = { common.color "rgba(0, 0, 0, 0.30)" }
 style.drag_overlay_tab   = { common.color "#f17e6e" }
 
-style.search_selection = { common.color "#007acc" }
-style.search_selection_text = { common.color "#ccebff" }
+style.search_selection = { common.color "#3B6DD9" }
+style.search_selection_text = { common.color "#ffffff" }
 
-style.syntax["normal"]   = { common.color "#FFFFFF" }
+style.syntax["normal"]   = { common.color "#F5F5F5" }
 style.syntax["symbol"]   = { common.color "#ff79c6" }
 style.syntax["comment"]  = { common.color "#9484bd" }
 style.syntax["keyword"]  = { common.color "#f5de4a" }

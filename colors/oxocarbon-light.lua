@@ -8,7 +8,7 @@ local base00 = { common.color "#ffffff" }
 local base01 = { common.color "#f2f2f2" }
 local base02 = { common.color "#d0d0d0" }
 local base03 = { common.color "#161616" }
-local base04 = { common.color "#37474F" }
+local base04 = { common.color "#232E33" }
 local base05 = { common.color "#90A4AE" }
 local base06 = { common.color "#525252" }
 local base07 = { common.color "#08bdba" }
@@ -40,12 +40,13 @@ style.caret = base06 -- caret
 
 style.line_highlight = base01 -- editor line highlighting
 style.selection = base02 -- editor selection
+style.dim = { common.color "#7597A8" }
 
 style.guide = base02 -- indentation guide
 style.guide_highlighting = base02 -- indentation guide
 
-style.search_selection = { common.color "#d279a6" }
-style.search_selection_text = { common.color "#ffff00" }
+style.search_selection = { common.color "#3B6DD9" }
+style.search_selection_text = { common.color "#ffffff" }
 
 -- User Interface
 style.background2 = base00 -- sidebar

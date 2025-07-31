@@ -44,8 +44,8 @@ style.selection = base02 -- editor selection
 style.guide = base02 -- indentation guide
 style.guide_highlighting = base02 -- indentation guide
 
-style.search_selection = { common.color "#737373" }
-style.search_selection_text = { common.color "#ffff33" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 -- User Interface
 style.background2 = base00 -- sidebar

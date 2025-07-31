@@ -19,8 +19,8 @@ style.line_highlight = { common.color "#333A40"}
 style.scrollbar = { common.color "#404040" }
 style.scrollbar2 = { common.color "#707070" } -- Hovered
 
-style.search_selection = { common.color "#676b98" }
-style.search_selection_text = { common.color "#f0f0f5" }
+style.search_selection = { common.color "#6a5acd" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#D4D4D4" }
 style.syntax["symbol"] = { common.color "#D4D4D4" }
@@ -30,7 +30,7 @@ style.syntax["keyword2"] = { common.color "#C586C0" } -- self, int float
 style.syntax["number"] = { common.color "#B5CEA8" }
 style.syntax["literal"] = { common.color "#569CD6" }
 style.syntax["string"] = { common.color "#CE9178" }
-style.syntax["operator"] = { common.color "#8590A5"}  -- = + - / < >
+style.syntax["operator"] = { common.color "#9AA7BF"}  -- = + - / < >
 style.syntax["function"] = { common.color "#DCDCAA" }
 
 -- PLUGINS

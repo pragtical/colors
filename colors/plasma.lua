@@ -5,19 +5,19 @@ style.background = { common.color "#222226" }
 style.background2 = { common.color "#252528" }
 style.background3 = { common.color "#1e1e21" }
 style.text = { common.color "#dddddd" }
-style.caret = { common.color "#aeafad" }
+style.caret = { common.color "#CBCCCA" }
 style.accent = { common.color "#0097fb" }
-style.dim = { common.color "#9393a5" }
+style.dim = { common.color "#7D7D8B" }
 style.divider = { common.color "#1E1E1E" }
 style.selection = { common.color "#264f78" }
-style.line_number = { common.color "#858585" }
+style.line_number = { common.color "#717171" }
 style.line_number2 = { common.color "#c6c6c6" }
 style.line_highlight = { common.color "#2b2b2f"}
 style.scrollbar = { common.color "#313136" }
 style.scrollbar2 = { common.color "#bfbfbf" }
 
-style.search_selection = { common.color "#bf4080" }
-style.search_selection_text = { common.color "#ffff00" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#dddddd" }
 style.syntax["symbol"] = { common.color "#e06c75" }

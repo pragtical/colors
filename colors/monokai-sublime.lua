@@ -4,20 +4,20 @@ local common = require "core.common"
 style.background = { common.color "#282923" }
 style.background2 = { common.color "#181915" }
 style.background3 = { common.color "#181915" }
-style.text = { common.color "#9EA191" }
+style.text = { common.color "#B2B5A3" }
 style.caret = { common.color "#FDFDFC" }
 style.accent = { common.color "#F8F8F2" }
 style.dim = { common.color "#5E6052" }
 style.divider = { common.color "#1B1C17" }
 style.selection = { common.color "#4C4B41" }
-style.line_number = { common.color "#90918B" }
+style.line_number = { common.color "#83847F" }
 style.line_number2 = { common.color "#D2D0C6" }
 style.line_highlight = { common.color "#282923" }
 style.scrollbar = { common.color "#53534F" }
 style.scrollbar2 = { common.color "#53534F" }
 
-style.search_selection = { common.color "#6c6e5e" }
-style.search_selection_text = { common.color "#ffccff" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#F8F8F2" }
 style.syntax["symbol"] = { common.color "#F8F8F2" }

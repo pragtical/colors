@@ -4,7 +4,7 @@ local config = require "core.config"
 
 style.background = { common.color "#2E3440" }
 style.background2 = { common.color "#2E3440" }
-style.background3 = { common.color "#3B4252" }
+style.background3 = { common.color "#343A48" }
 style.text = { common.color "#D8DEE9" }
 style.caret = { common.color "#D8DEE9" }
 style.accent = { common.color "#88C0D0" }
@@ -32,8 +32,8 @@ style.syntax["string"] = { common.color "#A3BE8C" }
 style.syntax["operator"] = { common.color "#81A1C1" }
 style.syntax["function"] = { common.color "#88C0D0" }
 
-style.search_selection = { common.color "#566176" }
-style.search_selection_text = { common.color "#80e5ff" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 config.highlight_current_line = "no_selection"
 

@@ -6,8 +6,8 @@ local common = require "core.common"
 style.background = { common.color "#13171e" }
 style.background2 = { common.color "#21252b" }
 style.background3 = { common.color "#21252b" }
-style.text = { common.color "#abb2bf" }
-style.caret = { common.color "#abb2bf" }
+style.text = { common.color "#B6BECC" }
+style.caret = { common.color "#BBC3D1" }
 style.accent = { common.color "#ffffff" }
 style.dim = { common.color "#545e70" }
 style.divider = { common.color "#242223" }
@@ -19,8 +19,8 @@ style.scrollbar = { common.color "#3d3f43" }
 style.scrollbar2 = { common.color "#595b5f" }
 style.guide = { common.color "#1c1f25" } -- indentguide
 
-style.search_selection = { common.color "#4d4d4d" }
-style.search_selection_text = { common.color "#e6e600" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#abb2bf" }
 style.syntax["symbol"] = { common.color "#71a9d7" }

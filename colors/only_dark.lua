@@ -5,11 +5,11 @@ style.background = { common.color "#242424" }
 style.background2 = { common.color "#252528" }
 style.background3 = { common.color "#44475A" }
 
-style.text = { common.color "#fffff0" }
+style.text = { common.color "#F5F5E6" }
 style.caret = { common.color "#69FF94" }
 style.accent = { common.color "#ff0fff" }
 
-style.dim = { common.color "#0fffff" }
+style.dim = { common.color "#0BBFBF" }
 style.divider = { common.color "#7b7f8b" }
 style.selection = { common.color "#48484f" }
 style.selectionhighlight = { common.color "#dddeee" }
@@ -19,8 +19,8 @@ style.line_highlight = { common.color "#343438" }
 style.scrollbar = { common.color "#414146" }
 style.scrollbar2 = { common.color "#4b4bff" }
 
-style.search_selection = { common.color "#566176" }
-style.search_selection_text = { common.color "#80e5ff" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#e1e1e6" }
 style.syntax["symbol"] = { common.color "#97e1f1" }
