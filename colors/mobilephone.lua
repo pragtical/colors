@@ -5,7 +5,7 @@ local common = require "core.common"
 style.background = { common.color "#333a4a" }  -- Docview
 style.background2 = { common.color "#2f4354" } -- Treeview
 style.background3 = { common.color "#1e1f22" } -- Command view
-style.text = { common.color "#b3b3b3" }
+style.text = { common.color "#D1D1D1" }
 style.caret = { common.color "#ffffff" }
 style.accent = { common.color "#919191" }
 style.dim = { common.color "#949494" }
@@ -27,8 +27,8 @@ style.warn = { common.color "#f5e728" }
 style.error = { common.color "#ff3333" }
 style.modified = { common.color "#e0d316" }
 
-style.search_selection = { common.color "#627084" }
-style.search_selection_text = { common.color "#66ff33" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#ffffff" }
 style.syntax["symbol"] = { common.color "#ff4f90" }

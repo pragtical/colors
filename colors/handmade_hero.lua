@@ -10,9 +10,9 @@ style.accent = { common.color "#eadbc8" }
 style.dim = { common.color "#6a6a6a" }
 style.divider = { common.color "#3a3a3a" }
 style.selection = { common.color "#444444" }
-style.line_highlight = { common.color "#333333" }
+style.line_highlight = { common.color "#2B2B2B" }
 style.line_number = { common.color "#484848" }
-style.line_number2 = { common.color "#484848" }
+style.line_number2 = { common.color "#707070" }
 style.scrollbar = { common.color "#3A3A3A" }
 style.scrollbar2 = { common.color "#555555" }
 

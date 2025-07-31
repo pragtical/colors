@@ -15,12 +15,12 @@ style.divider = { common.color "#e8e8e8" }
 style.selection = { common.color "#b7dce8" }
 style.line_number = { common.color "#d0d0d0" }
 style.line_number2 = { common.color "#808080" }
-style.line_highlight = { common.color "#f2f2f2" }
+style.line_highlight = { common.color "#EAEAEA" }
 style.scrollbar = { common.color "#e0e0e0" }
 style.scrollbar2 = { common.color "#c0c0c0" }
 
-style.search_selection = { common.color "#b3b3b3" }
-style.search_selection_text = { common.color "#384047" }
+style.search_selection = { common.color "#3B6DD9" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#24292e" }
 style.syntax["symbol"] = { common.color "#24292e" }

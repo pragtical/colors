@@ -4,7 +4,7 @@ local common = require("core.common")
 local rose_pine = {}
 
 rose_pine.base = "#191724"
-rose_pine.surface = "#1f1d2e"
+rose_pine.surface = "#2F2B45"
 rose_pine.overlay = "#26233a"
 rose_pine.muted = "#6e6a86"
 rose_pine.subtle = "#908caa"
@@ -15,7 +15,7 @@ rose_pine.rose = "#ebbcba"
 rose_pine.pine = "#31748f"
 rose_pine.foam = "#9ccfd8"
 rose_pine.iris = "#c4a7e7"
-rose_pine.highlight_low = "#21202e"
+rose_pine.highlight_low = "#464461"
 rose_pine.highlight_med = "#403d52"
 rose_pine.highlight_high = "#524f67"
 
@@ -46,8 +46,8 @@ style.warn = { common.color(rose_pine.gold) }
 style.error = { common.color(rose_pine.love) }
 style.modified = { common.color(rose_pine.foam) }
 
-style.search_selection = { common.color "#666666" }
-style.search_selection_text = { common.color "#ffff00" }
+style.search_selection = { common.color "#3B6DD9" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color(rose_pine.text) }
 style.syntax["symbol"] = { common.color(rose_pine.text) }

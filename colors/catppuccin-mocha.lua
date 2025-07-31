@@ -2,11 +2,11 @@ local style = require "core.style"
 local common = require "core.common"
 style.background = { common.color "#1e1e2e" } -- base
 style.background2 = { common.color "#181825" } -- mantle
-style.background3 = { common.color "#313244" } -- surface0
-style.text = { common.color "#cdd6f4" } -- text
+style.background3 = { common.color "#1C1C2B" } -- surface0
+style.text = { common.color "#D6E0FF" } -- text
 style.caret = { common.color "#f5e0dc" } -- rosewater
 style.accent = { common.color "#cba6f7" } -- mauve
-style.dim = { common.color "#bac2de" } -- subtext1
+style.dim = { common.color "#8B90A6" } -- subtext1
 style.divider = { common.color "#cba6f7" } -- mauve
 style.selection = { common.color "#585b70" } -- surface2
 style.line_number = { common.color "#6c7086" } -- overlay0
@@ -16,8 +16,8 @@ style.scrollbar = { common.color "#585b70" } -- surface2
 style.scrollbar2 = { common.color "#6c7086" } -- overlay0
 style.scrollbar_track = { common.color "#181825" } -- mantle
 
-style.search_selection = { common.color "#3c3c5d" }
-style.search_selection_text = { common.color "#ffad33" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#f38ba8" } -- red
 style.syntax["symbol"] = { common.color "#b4befe" } -- lavender

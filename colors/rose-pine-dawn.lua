@@ -4,20 +4,20 @@ local common = require("core.common")
 local rose_pine_dawn = {}
 
 rose_pine_dawn.base = "#faf4ed"
-rose_pine_dawn.surface = "#fffaf3"
+rose_pine_dawn.surface = "#EBE6E0"
 rose_pine_dawn.overlay = "#f2e9e1"
 rose_pine_dawn.muted = "#9893a5"
 rose_pine_dawn.subtle = "#797593"
-rose_pine_dawn.text = "#575279"
+rose_pine_dawn.text = "#44405E"
 rose_pine_dawn.love = "#b4637a"
 rose_pine_dawn.gold = "#ea9d34"
 rose_pine_dawn.rose = "#d7827e"
 rose_pine_dawn.pine = "#286983"
 rose_pine_dawn.foam = "#56949f"
 rose_pine_dawn.iris = "#907aa9"
-rose_pine_dawn.highlight_low = "#f4ede8"
+rose_pine_dawn.highlight_low = "#B3ADAA"
 rose_pine_dawn.highlight_med = "#dfdad9"
-rose_pine_dawn.highlight_high = "#cecacd"
+rose_pine_dawn.highlight_high = "#BCB8BB"
 
 style.background = { common.color(rose_pine_dawn.base) } -- Docview
 style.background2 = { common.color(rose_pine_dawn.base) } -- Treeview
@@ -46,8 +46,8 @@ style.warn = { common.color(rose_pine_dawn.gold) }
 style.error = { common.color(rose_pine_dawn.love) }
 style.modified = { common.color(rose_pine_dawn.foam) }
 
-style.search_selection = { common.color "#d39d5f" }
-style.search_selection_text = { common.color "#333333" }
+style.search_selection = { common.color "#3B6DD9" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color(rose_pine_dawn.text) }
 style.syntax["symbol"] = { common.color(rose_pine_dawn.text) }

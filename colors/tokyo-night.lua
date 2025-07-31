@@ -5,16 +5,16 @@ local common = require "core.common"
 
 style.background = { common.color "#1a1b26" }
 style.background2 = { common.color "#16161e" }
-style.background3 = { common.color "#24283b" }
-style.text = { common.color "#a9b1d6" }
-style.caret = { common.color "#a9b1d6" }
+style.background3 = { common.color "#1B1E2C" }
+style.text = { common.color "#B1B9E0" }
+style.caret = { common.color "#B5BDE5" }
 style.accent = { common.color "#7aa2f7" } -- Text in autocomplete and command, col(>80) in satusbar
 style.dim = { common.color "#565f89" } -- Text of nonactive tabs, prefix in log
 style.divider = { common.color "#101014" }
 style.selection = { common.color "#282B3C" }
 style.line_number = { common.color "#363B54" }
 style.line_number2 = { common.color "#737AA2" } -- Number on line with caret
-style.line_highlight = { common.color "#1E202E"}
+style.line_highlight = { common.color "#282B3D"}
 style.scrollbar = { common.color "#24283b" }
 style.scrollbar2 = { common.color "#414868" } -- Hovered
 style.scrollbar_track = { common.color "#16161e" }
@@ -28,8 +28,8 @@ style.warn = { common.color "#e0af68" }
 style.error = { common.color "#f7768e" }
 style.modified = { common.color "#7aa2f7" }
 
-style.search_selection = { common.color "#676b98" }
-style.search_selection_text = { common.color "#f0f0f5" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#9ABDF5" }
 style.syntax["symbol"] = { common.color "#c0caf5" }

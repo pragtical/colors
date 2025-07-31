@@ -8,7 +8,7 @@ style.background3 = { common.color "#000000" } -- Command view
 style.text = { common.color "#00ff1a" }
 style.caret = { common.color "#00ed18" }
 style.accent = { common.color "#24ed60" }
-style.dim = { common.color "#02e806" }
+style.dim = { common.color "#01A804" }
 style.divider = { common.color "#00f230" } -- Line between nodes
 style.selection = { common.color "#02cf2154" }
 style.line_number = { common.color "#2bdfff" }
@@ -27,8 +27,8 @@ style.warn = { common.color "#966a3b" }
 style.error = { common.color "#ff3333" }
 style.modified = { common.color "#1c7c9c" }
 
-style.search_selection = { common.color "#4d4d4d" }
-style.search_selection_text = { common.color "#42f076" }
+style.search_selection = { common.color "#cc6600" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = { common.color "#ffffff" }
 style.syntax["symbol"] = { common.color "#ff4f90" }

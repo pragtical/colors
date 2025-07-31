@@ -5,7 +5,7 @@ local common = require "core.common"
 
 style.background = { common.color "#15212A" }
 style.background2 = { common.color "#10191F" }
-style.background3 = { common.color "#18262FAA" }
+style.background3 = { common.color "#18262F" }
 style.text = { common.color "#BFC9DBFF" }
 style.caret = { common.color "#26B2B2FF" }
 style.accent = { common.color "#ffffff" }

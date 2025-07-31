@@ -28,7 +28,7 @@ local colors = {
   light_4             = { common.color "#DEDDDA" },
   light_5             = { common.color "#C0BFBC" },
   light_6             = { common.color "#B0AFAC" },
-  light_7             = { common.color "#9A9996" },
+  light_7             = { common.color "#908F8C" },
   orange_1            = { common.color "#F29879" },
   orange_2            = { common.color "#F08763" },
   orange_3            = { common.color "#ED764D" },
@@ -116,8 +116,8 @@ style.warn = colors.yellow_4
 style.error = colors.red_4
 style.modified = colors.blue_3
 
-style.search_selection = { common.color "#676b98" }
-style.search_selection_text = { common.color "#f0f0f5" }
+style.search_selection = { common.color "#6a5acd" }
+style.search_selection_text = { common.color "#ffffff" }
 
 style.syntax["normal"] = colors.light_5
 style.syntax["symbol"] = colors.light_6
