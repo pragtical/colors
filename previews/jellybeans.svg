@@ -5,18 +5,18 @@
 <rect x="30.0" width="10.0" height="16" fill="rgb(46, 46, 46)"></rect> 
 <rect x="40.0" width="10.0" height="16" fill="rgb(59, 59, 59)"></rect> 
 <rect x="50.0" width="10.0" height="16" fill="rgb(64, 64, 64)"></rect> 
-<rect x="60.0" width="10.0" height="16" fill="rgb(77, 77, 77)"></rect> 
-<rect x="70.0" width="10.0" height="16" fill="rgb(91, 91, 91)"></rect> 
+<rect x="60.0" width="10.0" height="16" fill="rgb(91, 91, 91)"></rect> 
+<rect x="70.0" width="10.0" height="16" fill="rgb(204, 102, 0)"></rect> 
 <rect x="80.0" width="10.0" height="16" fill="rgb(207, 106, 76)"></rect> 
 <rect x="90.0" width="10.0" height="16" fill="rgb(107, 139, 155)"></rect> 
 <rect x="100.0" width="10.0" height="16" fill="rgb(136, 136, 136)"></rect> 
 <rect x="110.0" width="10.0" height="16" fill="rgb(89, 123, 197)"></rect> 
 <rect x="120.0" width="10.0" height="16" fill="rgb(153, 173, 106)"></rect> 
-<rect x="130.0" width="10.0" height="16" fill="rgb(230, 230, 0)"></rect> 
-<rect x="140.0" width="10.0" height="16" fill="rgb(216, 173, 76)"></rect> 
-<rect x="150.0" width="10.0" height="16" fill="rgb(129, 151, 191)"></rect> 
-<rect x="160.0" width="10.0" height="16" fill="rgb(255, 185, 100)"></rect> 
-<rect x="170.0" width="10.0" height="16" fill="rgb(143, 191, 220)"></rect> 
-<rect x="180.0" width="10.0" height="16" fill="rgb(250, 208, 122)"></rect> 
-<rect x="190.0" width="10.0" height="16" fill="rgb(232, 232, 211)"></rect> 
+<rect x="130.0" width="10.0" height="16" fill="rgb(216, 173, 76)"></rect> 
+<rect x="140.0" width="10.0" height="16" fill="rgb(129, 151, 191)"></rect> 
+<rect x="150.0" width="10.0" height="16" fill="rgb(255, 185, 100)"></rect> 
+<rect x="160.0" width="10.0" height="16" fill="rgb(143, 191, 220)"></rect> 
+<rect x="170.0" width="10.0" height="16" fill="rgb(250, 208, 122)"></rect> 
+<rect x="180.0" width="10.0" height="16" fill="rgb(232, 232, 211)"></rect> 
+<rect x="190.0" width="10.0" height="16" fill="rgb(255, 255, 255)"></rect> 
 </svg>

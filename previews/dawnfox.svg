@@ -1,18 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="16" shape-rendering="crispEdges"> 
-<rect x="0.0" width="12.5" height="16" fill="rgb(40, 105, 131)"></rect> 
-<rect x="12.5" width="12.5" height="16" fill="rgb(87, 82, 121)"></rect> 
-<rect x="25.0" width="12.5" height="16" fill="rgb(98, 92, 135)"></rect> 
-<rect x="37.5" width="12.5" height="16" fill="rgb(95, 86, 149)"></rect> 
-<rect x="50.0" width="12.5" height="16" fill="rgb(97, 135, 116)"></rect> 
-<rect x="62.5" width="12.5" height="16" fill="rgb(86, 148, 159)"></rect> 
-<rect x="75.0" width="12.5" height="16" fill="rgb(180, 99, 122)"></rect> 
-<rect x="87.5" width="12.5" height="16" fill="rgb(144, 122, 169)"></rect> 
-<rect x="100.0" width="12.5" height="16" fill="rgb(234, 157, 52)"></rect> 
-<rect x="112.5" width="12.5" height="16" fill="rgb(215, 130, 126)"></rect> 
-<rect x="125.0" width="12.5" height="16" fill="rgb(168, 163, 179)"></rect> 
-<rect x="137.5" width="12.5" height="16" fill="rgb(214, 133, 175)"></rect> 
-<rect x="150.0" width="12.5" height="16" fill="rgb(235, 224, 223)"></rect> 
-<rect x="162.5" width="12.5" height="16" fill="rgb(235, 223, 228)"></rect> 
-<rect x="175.0" width="12.5" height="16" fill="rgb(230, 235, 243)"></rect> 
-<rect x="187.5" width="12.5" height="16" fill="rgb(250, 244, 237)"></rect> 
+<rect x="0.0" width="11.111111111111" height="16" fill="rgb(70, 66, 98)"></rect> 
+<rect x="11.111111111111" width="11.111111111111" height="16" fill="rgb(40, 105, 131)"></rect> 
+<rect x="22.222222222222" width="11.111111111111" height="16" fill="rgb(95, 86, 149)"></rect> 
+<rect x="33.333333333333" width="11.111111111111" height="16" fill="rgb(97, 135, 116)"></rect> 
+<rect x="44.444444444444" width="11.111111111111" height="16" fill="rgb(86, 148, 159)"></rect> 
+<rect x="55.555555555556" width="11.111111111111" height="16" fill="rgb(180, 99, 122)"></rect> 
+<rect x="66.666666666667" width="11.111111111111" height="16" fill="rgb(144, 122, 169)"></rect> 
+<rect x="77.777777777778" width="11.111111111111" height="16" fill="rgb(234, 157, 52)"></rect> 
+<rect x="88.888888888889" width="11.111111111111" height="16" fill="rgb(51, 153, 255)"></rect> 
+<rect x="100.0" width="11.111111111111" height="16" fill="rgb(215, 130, 126)"></rect> 
+<rect x="111.11111111111" width="11.111111111111" height="16" fill="rgb(153, 149, 183)"></rect> 
+<rect x="122.22222222222" width="11.111111111111" height="16" fill="rgb(168, 163, 179)"></rect> 
+<rect x="133.33333333333" width="11.111111111111" height="16" fill="rgb(214, 133, 175)"></rect> 
+<rect x="144.44444444444" width="11.111111111111" height="16" fill="rgb(226, 208, 215)"></rect> 
+<rect x="155.55555555556" width="11.111111111111" height="16" fill="rgb(235, 224, 223)"></rect> 
+<rect x="166.66666666667" width="11.111111111111" height="16" fill="rgb(230, 235, 243)"></rect> 
+<rect x="177.77777777778" width="11.111111111111" height="16" fill="rgb(250, 244, 237)"></rect> 
+<rect x="188.88888888889" width="11.111111111111" height="16" fill="rgb(255, 255, 255)"></rect> 
 </svg>

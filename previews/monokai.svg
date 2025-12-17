@@ -4,17 +4,17 @@
 <rect x="22.222222222222" width="11.111111111111" height="16" fill="rgb(73, 72, 62)"></rect> 
 <rect x="33.333333333333" width="11.111111111111" height="16" fill="rgb(83, 83, 79)"></rect> 
 <rect x="44.444444444444" width="11.111111111111" height="16" fill="rgb(94, 96, 82)"></rect> 
-<rect x="55.555555555556" width="11.111111111111" height="16" fill="rgb(108, 110, 94)"></rect> 
+<rect x="55.555555555556" width="11.111111111111" height="16" fill="rgb(204, 102, 0)"></rect> 
 <rect x="66.666666666667" width="11.111111111111" height="16" fill="rgb(117, 113, 94)"></rect> 
-<rect x="77.777777777778" width="11.111111111111" height="16" fill="rgb(249, 36, 114)"></rect> 
-<rect x="88.888888888889" width="11.111111111111" height="16" fill="rgb(249, 38, 114)"></rect> 
-<rect x="100.0" width="11.111111111111" height="16" fill="rgb(144, 145, 139)"></rect> 
+<rect x="77.777777777778" width="11.111111111111" height="16" fill="rgb(132, 133, 127)"></rect> 
+<rect x="88.888888888889" width="11.111111111111" height="16" fill="rgb(249, 36, 114)"></rect> 
+<rect x="100.0" width="11.111111111111" height="16" fill="rgb(249, 38, 114)"></rect> 
 <rect x="111.11111111111" width="11.111111111111" height="16" fill="rgb(166, 226, 46)"></rect> 
-<rect x="122.22222222222" width="11.111111111111" height="16" fill="rgb(158, 161, 145)"></rect> 
+<rect x="122.22222222222" width="11.111111111111" height="16" fill="rgb(171, 174, 156)"></rect> 
 <rect x="133.33333333333" width="11.111111111111" height="16" fill="rgb(174, 129, 255)"></rect> 
 <rect x="144.44444444444" width="11.111111111111" height="16" fill="rgb(230, 219, 116)"></rect> 
 <rect x="155.55555555556" width="11.111111111111" height="16" fill="rgb(210, 208, 198)"></rect> 
-<rect x="166.66666666667" width="11.111111111111" height="16" fill="rgb(255, 179, 255)"></rect> 
-<rect x="177.77777777778" width="11.111111111111" height="16" fill="rgb(248, 248, 240)"></rect> 
-<rect x="188.88888888889" width="11.111111111111" height="16" fill="rgb(248, 248, 242)"></rect> 
+<rect x="166.66666666667" width="11.111111111111" height="16" fill="rgb(248, 248, 240)"></rect> 
+<rect x="177.77777777778" width="11.111111111111" height="16" fill="rgb(248, 248, 242)"></rect> 
+<rect x="188.88888888889" width="11.111111111111" height="16" fill="rgb(255, 255, 255)"></rect> 
 </svg>

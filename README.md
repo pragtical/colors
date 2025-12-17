@@ -88,8 +88,10 @@ do not bother modifying it.*
 | [mobilephone](colors/mobilephone.lua?raw=1)                                   | ![mobilephone_preview](previews/mobilephone.svg)                                   |
 | [monodark](colors/monodark.lua?raw=1)                                         | ![monodark_preview](previews/monodark.svg)                                         |
 | [monokai](colors/monokai.lua?raw=1)                                           | ![monokai_preview](previews/monokai.svg)                                           |
+| [monokai-pro](colors/monokai-pro.lua?raw=1)                                   | ![monokai-pro_preview](previews/monokai-pro.svg)                                   |
 | [monokai-pro-classic](colors/monokai-pro-classic.lua?raw=1)                   | ![monokai-pro-classic_preview](previews/monokai-pro-classic.svg)                   |
 | [monokai-sublime](colors/monokai-sublime.lua?raw=1)                           | ![monokai-sublime_preview](previews/monokai-sublime.svg)                           |
+| [monokai-varied](colors/monokai-varied.lua?raw=1)                             | ![monokai-varied_preview](previews/monokai-varied.svg)                             |
 | [nebula](colors/nebula.lua?raw=1)                                             | ![nebula_preview](previews/nebula.svg)                                             |
 | [nightfox](colors/nightfox.lua?raw=1)                                         | ![nightfox_preview](previews/nightfox.svg)                                         |
 | [nord](colors/nord.lua?raw=1)                                                 | ![nord_preview](previews/nord.svg)                                                 |

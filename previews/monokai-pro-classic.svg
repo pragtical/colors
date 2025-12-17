@@ -6,16 +6,16 @@
 <rect x="42.105263157895" width="10.526315789474" height="16" fill="rgb(73, 72, 62)"></rect> 
 <rect x="52.631578947368" width="10.526315789474" height="16" fill="rgb(94, 96, 82)"></rect> 
 <rect x="63.157894736842" width="10.526315789474" height="16" fill="rgb(99, 98, 84)"></rect> 
-<rect x="73.684210526316" width="10.526315789474" height="16" fill="rgb(108, 110, 94)"></rect> 
+<rect x="73.684210526316" width="10.526315789474" height="16" fill="rgb(204, 102, 0)"></rect> 
 <rect x="84.210526315789" width="10.526315789474" height="16" fill="rgb(117, 113, 94)"></rect> 
 <rect x="94.736842105263" width="10.526315789474" height="16" fill="rgb(249, 38, 114)"></rect> 
 <rect x="105.26315789474" width="10.526315789474" height="16" fill="rgb(166, 226, 46)"></rect> 
-<rect x="115.78947368421" width="10.526315789474" height="16" fill="rgb(158, 161, 145)"></rect> 
+<rect x="115.78947368421" width="10.526315789474" height="16" fill="rgb(171, 174, 156)"></rect> 
 <rect x="126.31578947368" width="10.526315789474" height="16" fill="rgb(174, 129, 255)"></rect> 
 <rect x="136.84210526316" width="10.526315789474" height="16" fill="rgb(102, 218, 239)"></rect> 
 <rect x="147.36842105263" width="10.526315789474" height="16" fill="rgb(230, 219, 116)"></rect> 
 <rect x="157.89473684211" width="10.526315789474" height="16" fill="rgb(210, 208, 198)"></rect> 
-<rect x="168.42105263158" width="10.526315789474" height="16" fill="rgb(255, 204, 255)"></rect> 
-<rect x="178.94736842105" width="10.526315789474" height="16" fill="rgb(248, 248, 240)"></rect> 
-<rect x="189.47368421053" width="10.526315789474" height="16" fill="rgb(248, 248, 242)"></rect> 
+<rect x="168.42105263158" width="10.526315789474" height="16" fill="rgb(248, 248, 240)"></rect> 
+<rect x="178.94736842105" width="10.526315789474" height="16" fill="rgb(248, 248, 242)"></rect> 
+<rect x="189.47368421053" width="10.526315789474" height="16" fill="rgb(255, 255, 255)"></rect> 
 </svg>
