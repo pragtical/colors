@@ -534,6 +534,28 @@
          "version" : "0.3"
       },
       {
+         "id" : "monokai-pro",
+         "mod_version" : "3.0.0",
+         "name" : "monokai-pro",
+         "path" : "colors/monokai-pro.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "monokai-varied",
+         "mod_version" : "3.0.0",
+         "name" : "monokai-varied",
+         "path" : "colors/monokai-varied.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "nebula",
          "mod_version" : "3.0.0",
          "name" : "nebula",
