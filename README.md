@@ -127,6 +127,7 @@ do not bother modifying it.*
 | [gruvbox-material-light-medium](colors/gruvbox-material-light-medium.lua?raw=1) | ![gruvbox-material-light-medium_preview](previews/gruvbox-material-light-medium.svg) |
 | [gruvbox-material-light-soft](colors/gruvbox-material-light-soft.lua?raw=1)     | ![gruvbox-material-light-soft_preview](previews/gruvbox-material-light-soft.svg)     |
 | [gruvbox_light](colors/gruvbox_light.lua?raw=1)                                 | ![gruvbox_light_preview](previews/gruvbox_light.svg)                                 |
+| [lite-light](colors/lite-light.lua?raw=1)                                       | ![lite-light_preview](previews/lite-light.svg)                                       |
 | [moe](colors/moe.lua?raw=1)                                                     | ![moe_preview](previews/moe.svg)                                                     |
 | [oxocarbon-light](colors/oxocarbon-light.lua?raw=1)                             | ![oxocarbon-light_preview](previews/oxocarbon-light.svg)                             |
 | [rose-pine-dawn](colors/rose-pine-dawn.lua?raw=1)                               | ![rose-pine-dawn_preview](previews/rose-pine-dawn.svg)                               |
