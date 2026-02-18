@@ -818,6 +818,17 @@
          ],
          "type" : "color",
          "version" : "0.3"
+      },
+	  {
+         "id" : "lite-light",
+         "mod_version" : "3.0.0",
+         "name" : "lite-light",
+         "path" : "colors/lite-light.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.3"
       }
    ]
 }
