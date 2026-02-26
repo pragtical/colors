@@ -84,6 +84,7 @@ do not bother modifying it.*
 | [jellybeans](colors/jellybeans.lua?raw=1)                                     | ![jellybeans_preview](previews/jellybeans.svg)                                     |
 | [justperfect](https://github.com/RohanVashisht1234/justperfect)               | ![justperfect_preview](previews/justperfect.svg)                                   |
 | [liqube](colors/liqube.lua?raw=1)                                             | ![liqube_preview](previews/liqube.svg)                                             |
+| [mapped](colors/mapped.lua?raw=1)                                             | ![mapped_preview](previews/mapped.svg)                                             |
 | [mariana](colors/mariana.lua?raw=1)                                           | ![mariana_preview](previews/mariana.svg)                                           |
 | [mobilephone](colors/mobilephone.lua?raw=1)                                   | ![mobilephone_preview](previews/mobilephone.svg)                                   |
 | [monodark](colors/monodark.lua?raw=1)                                         | ![monodark_preview](previews/monodark.svg)                                         |
