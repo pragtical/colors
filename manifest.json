@@ -14,7 +14,7 @@
       {
          "id": "ayu-dark",
          "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
-	 "version": "0.2",
+         "version": "0.2",
          "type": "color",
          "tags": [
             "dark"
@@ -23,7 +23,7 @@
       {
          "id": "ayu-light",
          "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
-	 "version": "0.2",
+         "version": "0.2",
          "type": "color",
          "tags": [
             "light"
@@ -457,6 +457,28 @@
          "version" : "0.3"
       },
       {
+         "id" : "lite-light",
+         "mod_version" : "3.0.0",
+         "name" : "lite-light",
+         "path" : "colors/lite-light.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.3"
+      },
+      {
+         "id" : "mapped",
+         "mod_version" : "3.0.0",
+         "name" : "mapped",
+         "path" : "colors/mapped.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "mariana",
          "mod_version" : "3.0.0",
          "name" : "mariana",
@@ -815,17 +837,6 @@
          "path" : "colors/zenburn.lua",
          "tags" : [
             "dark"
-         ],
-         "type" : "color",
-         "version" : "0.3"
-      },
-	  {
-         "id" : "lite-light",
-         "mod_version" : "3.0.0",
-         "name" : "lite-light",
-         "path" : "colors/lite-light.lua",
-         "tags" : [
-            "light"
          ],
          "type" : "color",
          "version" : "0.3"
