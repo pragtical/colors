@@ -5,10 +5,10 @@ for i, filename in ipairs({ ... }) do
   local text = io.open(filename):read("*a")
   local colors = {}
   for r, g, b in text:gmatch("#(%x%x)(%x%x)(%x%x)") do
-    r = tonumber(r, 16)
-    g = tonumber(g, 16)
-    b = tonumber(b, 16)
-    table.insert(colors, { r, g, b })
+    local rn = tonumber(r, 16)
+    local gn = tonumber(g, 16)
+    local bn = tonumber(b, 16)
+    table.insert(colors, { rn, gn, bn })
   end
 
   table.sort(colors, function(a, b)
