@@ -13,8 +13,10 @@
       },
       {
          "id": "ayu-dark",
-         "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
-         "version": "0.2",
+         "mod_version" : "3.0.0",
+         "name": "Ayu Dark",
+         "remote": "https://github.com/juliardi/pragtical-ayu-theme.git:55b561c18e6edd69242a0ca2d377c73f58a39803",
+         "version": "0.3",
          "type": "color",
          "tags": [
             "dark"
@@ -22,8 +24,10 @@
       },
       {
          "id": "ayu-light",
-         "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
-         "version": "0.2",
+         "mod_version" : "3.0.0",
+         "name": "Ayu Light",
+         "remote": "https://github.com/juliardi/pragtical-ayu-theme.git:55b561c18e6edd69242a0ca2d377c73f58a39803",
+         "version": "0.3",
          "type": "color",
          "tags": [
             "light"
@@ -31,9 +35,11 @@
       },
       {
          "id": "ayu-mirage",
-         "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
+         "mod_version" : "3.0.0",
+         "name": "Ayu Mirage",
+         "remote": "https://github.com/juliardi/pragtical-ayu-theme.git:55b561c18e6edd69242a0ca2d377c73f58a39803",
+         "version": "0.3",
          "type": "color",
-         "version": "0.2",
          "tags": [
             "dark"
          ]
