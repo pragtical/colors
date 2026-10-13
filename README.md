@@ -54,8 +54,8 @@ do not bother modifying it.*
 | Theme                                                                         | Preview                                                                            |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [abyss](colors/abyss.lua?raw=1)                                               | ![abyss_preview](previews/abyss.svg)                                               |
-| [ayu-dark](https://github.com/juliardi/lite-xl-ayu-theme.git)                 | ![ayu-dark_preview](previews/ayu-dark.svg)                                         |
-| [ayu-mirage](https://github.com/juliardi/lite-xl-ayu-theme.git)               | ![ayu-mirage_preview](previews/ayu-mirage.svg)                                     |
+| [ayu-dark](https://github.com/juliardi/pragtical-ayu-theme.git)               | ![ayu-dark_preview](previews/ayu-dark.svg)                                         |
+| [ayu-mirage](https://github.com/juliardi/pragtical-ayu-theme.git)             | ![ayu-mirage_preview](previews/ayu-mirage.svg)                                     |
 | [bearded-theme-vivid-black](colors/bearded-theme-vivid-black.lua?raw=1)       | ![bearded-theme-vivid-black_preview](previews/bearded-theme-vivid-black.svg)       |
 | [betelgeuse](colors/betelgeuse.lua?raw=1)                                     | ![betelgeuse_preview](previews/betelgeuse.svg)                                     |
 | [c0mfy](colors/c0mfy.lua?raw=1)                                               | ![c0mfy_preview](previews/c0mfy.svg)                                               |
@@ -117,7 +117,7 @@ do not bother modifying it.*
 
 | Theme                                                                           | Preview                                                                              |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [ayu-light](https://github.com/juliardi/lite-xl-ayu-theme.git)                  | ![ayu-light_preview](previews/ayu-light.svg)                                         |
+| [ayu-light](https://github.com/juliardi/pragtical-ayu-theme.git)                | ![ayu-light_preview](previews/ayu-light.svg)                                         |
 | [catppuccin-latte](colors/catppuccin-latte.lua?raw=1)                           | ![catppuccin-latte_preview](previews/catppuccin-latte.svg)                           |
 | [dawnfox](colors/dawnfox.lua?raw=1)                                             | ![dawnfox_preview](previews/dawnfox.svg)                                             |
 | [dayfox](colors/dayfox.lua?raw=1)                                               | ![dayfox_preview](previews/dayfox.svg)                                               |
