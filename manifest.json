@@ -48,8 +48,7 @@
          "id": "flying_island_dark",
          "mod_version": "3.0.0",
          "name": "Flying Island Dark",
-         "remote": "https://github.com/TongshiWang/pragtical-flying-island.git:072be6702a2d51e33cf76e081f2794a827110a7a",
-         "path": "colors/flying_island_dark.lua",
+         "remote": "https://github.com/TongshiWang/pragtical-flying-island:451b66b889565f236bf63d1495c263d37df56ebe",
          "version": "1.0.0",
          "type": "color",
          "tags": [
