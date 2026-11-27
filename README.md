@@ -71,6 +71,7 @@ do not bother modifying it.*
 | [everblush](colors/everblush.lua?raw=1)                                       | ![everblush_preview](previews/everblush.svg)                                       |
 | [everforest](colors/everforest.lua?raw=1)                                     | ![everforest_preview](previews/everforest.svg)                                     |
 | [flexoki_dark](colors/flexoki_dark.lua?raw=1)                                 | ![flexoki_dark_preview](previews/flexoki_dark.svg)                                 |
+| [flying_island_dark](https://github.com/TongshiWang/pragtical-flying-island)  | ![flying_island_dark_preview](previews/flying_island_dark.svg)                     |
 | [focus](colors/focus.lua?raw=1)                                               | ![focus_preview](previews/focus.svg)                                               |
 | [github-dark-dimmed](colors/github-dark-dimmed.lua?raw=1)                     | ![github-dark-dimmed_preview](previews/github-dark-dimmed.svg)                     |
 | [github_dark](colors/github_dark.lua?raw=1)                                   | ![github_dark_preview](previews/github_dark.svg)                                   |
