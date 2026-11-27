@@ -45,6 +45,17 @@
          ]
       },
       {
+         "id": "flying_island_dark",
+         "mod_version": "3.0.0",
+         "name": "Flying Island Dark",
+         "remote": "https://github.com/TongshiWang/pragtical-flying-island:451b66b889565f236bf63d1495c263d37df56ebe",
+         "version": "1.0.0",
+         "type": "color",
+         "tags": [
+            "dark"
+         ]
+      },
+      {
          "id" : "bearded-theme-vivid-black",
          "mod_version" : "3.0.0",
          "name" : "Bearded Theme Vivid Black",
